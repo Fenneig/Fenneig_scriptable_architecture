@@ -1,0 +1,18 @@
+{
+    "name": "Fenneig.ScriptableArchitecture.Editor",
+    "rootNamespace": "Fenneig_Scriptable_Architecture",
+    "references": [
+        "GUID:83ce1c688e6aa2f45a17469a69d9a5ba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

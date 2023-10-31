@@ -1,0 +1,15 @@
+{
+    "name": "com.fennec-burrow-games-studio.fenneig-scriptable-architecture",
+    "version": "1.0.0",
+    "displayName": "Fenneig scriptable architecture",
+    "description": "Package includes tools for creating scriptable values, references and events",
+    "unity": "2020.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/Fenneig/Fenneig_scriptable_architecture/blob/main/readme.md",
+    "licensesUrl": "https://github.com/Fenneig/Fenneig_scriptable_architecture/blob/main/LICENSE",
+    "author": {
+      "name": "Fenneig",
+      "email": "koie.dubna@gmail.com",
+      "url": "https://github.com/Fenneig"
+    }
+  }
